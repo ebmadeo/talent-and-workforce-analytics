@@ -1,0 +1,4 @@
+**Overview:**
+This project examines workforce data to support talent acquisition, workforce planning, and diversity and inclusion initiatives. It analyzes employee demographics, work locations, departmental distribution, and hiring trends to identify patterns and opportunities for strategic HR planning.
+
+The findings show that the workforce is spread across multiple departments, with Engineering serving as a major contributor. Most employees work at the headquarters, while a smaller portion operate remotely. The age distribution reflects a broad mix of early‑career to mid‑career professionals. Gender representation is relatively balanced, with a small proportion of non‑conforming employees included. The workforce is largely concentrated in a single state, and hiring activity has remained steady over the years, showing consistent recruitment patterns.
